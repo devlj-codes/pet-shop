@@ -174,7 +174,7 @@ html[xmlns] .slides {
 	height: 52px; 
 	margin: -20px 0 0; 
 	display: block; 
-	background: url(images/bg_direction_nav.png) no-repeat 0 0; 
+	background: url(/wp-content/plugins/genesis-responsive-slider/assets/images/bg_direction_nav.png) no-repeat 0 0; 
 	position: absolute; 
 	top: 50%; 
 	cursor: pointer; 
@@ -227,7 +227,7 @@ html[xmlns] .slides {
 }
 
 .flex-control-nav li a {	 
-	background: url(images/bg_control_nav.png) no-repeat 0 0; 
+	background: url(/wp-content/plugins/genesis-responsive-slider/assets/images/bg_control_nav.png) no-repeat 0 0; 
 	cursor: pointer; 
 	display: block;
 	height: 13px;
