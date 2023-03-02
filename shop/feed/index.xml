@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Pet Shop</title>
-	<atom:link href="http://localhost/shop/feed/?simply_static_page=117" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/shop/feed/?simply_static_page=532" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>All your pet&#039;s needs are here</description>
 	<lastBuildDate>Wed, 01 Mar 2023 07:47:09 +0000</lastBuildDate>
